@@ -1,0 +1,3 @@
+file=open('tt.txt','w')
+file.write(self.decide(values.split(',')))
+file.close()
